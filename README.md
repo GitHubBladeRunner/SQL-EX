@@ -1,1 +1,1 @@
-# This is my solutions for SQL-EX exercises
+## This is my solutions for some of the SQL-EX exercises
